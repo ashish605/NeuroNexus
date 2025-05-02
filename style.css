@@ -1,0 +1,105 @@
+*{
+    background-color: rgb(196, 227, 239);
+}
+
+.main{
+    width:30%;
+    background-color:skyblue;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 5%;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: -1px 0px 14px 1px;
+}
+
+.head{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    background-color:skyblue;
+}
+
+.form{
+    background-color:skyblue;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color:skyblue;
+    padding: 10px;
+}
+button{
+    border: none;
+    padding: 15px 25px;
+    background-color:#25cded;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: -1px 0px 14px 1px
+
+}
+
+button:hover{
+    background-color: #05b7e2;
+
+}
+
+label{
+    background-color:white;
+    margin: 3px;
+    border-radius: 5px;
+    color: black;
+    padding: 3px;
+    height: 30px;
+
+}
+.genders{
+    background-color:white;
+    padding: 3px;
+}
+
+input::placeholder{
+    background-color:white;
+}
+select{
+    background-color:white;
+    
+}
+textarea
+{
+    background-color: white;
+    border: none;
+}
+
+.onee{
+    margin: 10px;
+    padding: 9px 5px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+input{
+    border: none;
+    background-color: white;
+    
+}
+
+.two{
+    display: flex;
+    align-items: flex-start;
+}
+
+
